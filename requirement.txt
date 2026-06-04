@@ -1,0 +1,4 @@
+beautifulSoup4
+Streamlit
+dateparser
+deep_translator 
